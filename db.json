@@ -1,0 +1,56 @@
+{
+  "route1": [
+    {
+      "success": true,
+      "message": "route1",
+      "data": [],
+      "id": "bc80"
+    }
+  ],
+  "route2": [
+    {
+      "success": true,
+      "message": "route2",
+      "data": [],
+      "id": "1927"
+    }
+  ],
+  "mahasiswa": [
+    {
+      "nim": "234567",
+      "nama": "Jane Smith",
+      "prodi": "Sistem Informasi",
+      "id": "2"
+    },
+    {
+      "nim": "345678",
+      "nama": "Ali Ahmad",
+      "prodi": "Teknik Komputer",
+      "id": "3"
+    },
+    {
+      "nim": "456789",
+      "nama": "Dewi Saraswati",
+      "prodi": "Manajemen Informatika",
+      "id": "4"
+    },
+    {
+      "nim": "567890",
+      "nama": "Budi Santoso",
+      "prodi": "Rekayasa Perangkat Lunak",
+      "id": "5"
+    },
+    {
+      "id": "b913",
+      "nim": "G.211.22.0006",
+      "nama": "Satria Dava",
+      "prodi": "Informatika"
+    },
+    {
+      "id": "fd60",
+      "nim": "G.211.22.00010",
+      "nama": "Pras",
+      "prodi": "Ekonomi"
+    }
+  ]
+}
